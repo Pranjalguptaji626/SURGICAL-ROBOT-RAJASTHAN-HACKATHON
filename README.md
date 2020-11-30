@@ -27,7 +27,7 @@ can control two DC motors.
 
 
 
-Some of the problems addressed by this project are-
+* Some of the problems addressed by this project are-
 
 1. If a well known surgeon is present in some part of the world
 away from the patient then the robot can be used to perform surgery
